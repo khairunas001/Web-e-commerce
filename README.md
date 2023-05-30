@@ -1,2 +1,2 @@
-# Web-e-commerce
-jual beli mouse
+# Website E-commerce Mice Gaming Store
+Jual beli mouse dengan semua tipe dan brand terkenal
